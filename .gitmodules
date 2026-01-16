@@ -1,0 +1,12 @@
+[submodule "bsp"]
+	path = bsp
+	url = https://github.com/radxa/allwinner-bsp
+	branch = product-aiot-stable
+[submodule "device-a733"]
+	path = device-a733
+	url = https://github.com/radxa/allwinner-device
+	branch = product-aiot-stable
+[submodule "src"]
+	path = src
+	url = ssh://vamrs@sdk.allwinnertech.com/git_repo/Tina_AIOT/tina/lichee/linux-6.6
+	branch = product-aiot-stable
